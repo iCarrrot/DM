@@ -6,8 +6,8 @@ FFMC
 DMC
 DC
 ISI
-temp
-RH
+temperature
+RH (relative humidity)
 wind
 rain
 area
